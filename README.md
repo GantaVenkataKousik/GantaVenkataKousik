@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋☕! My name is Ganta Venkata Kousik,📚<br> I'm a Aspiring MAANG Engineer💻📈</h2>
+<h2 align="left">Hi 👋☕! My name is Ganta Venkata Kousik,✨📚<br> I'm a Aspiring MAANG Engineer💻📈⚡️</h2>
 
 ###
 
@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gantavenkatakousik/gantavenkatakousik/output/snake.svg" alt="Snake animation" />
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ###
