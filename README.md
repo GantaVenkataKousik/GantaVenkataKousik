@@ -40,4 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+
+![GVK's GitHub stats](https://github-readme-stats.vercel.app/api?username=gantavenkatakousik&hide=contribs,prs)
 ###
