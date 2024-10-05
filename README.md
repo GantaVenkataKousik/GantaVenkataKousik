@@ -1,6 +1,5 @@
-<h2 align="center">Hi 👋☕! My name is Ganta Venkata Kousik,✨📚<br> I'm an Aspiring MAANG Engineer💻📈⚡️</h2>
-
-###
+<h2 align="center">Hi 👋! I'm is Ganta Venkata Kousik,✨<br> 4x Intern👨‍💻| 8x Startups⚡</h2>
+<h3 align="center"><b>4x Intern👨‍💻</b>( Wellytics - CareAutomate - Chawk - Kreda )(All Paid)<br> <b>8x Startups</b> ( Cology , Kreda , Vishnuspire , Vishnu TBI , Narico , Genetic Labs , Vaidya Sri , Trizen LLP)⚡</h3>
 
 
 ###
