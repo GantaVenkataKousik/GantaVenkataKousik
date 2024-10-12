@@ -65,5 +65,5 @@
 
 <h3>Note</h3>
 <h3 align="center">
-  50% of the repos are in private
+  40% of the repos are in private
 </h3>
