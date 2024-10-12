@@ -65,6 +65,5 @@
 
 <h3>Note</h3>
 <h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/note.png" alt="Note" width="20" height="20"/>
   50% of the repos are in private
 </h3>
