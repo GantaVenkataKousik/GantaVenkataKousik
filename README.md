@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br> 4x Intern👨‍💻| 8x Startups⚡<br>50% of the repos are in private</h2>
+<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br> 4x Intern👨‍💻| 8x Startups⚡</h2>
 <h3 align="center"><b>4x Intern👨‍💻</b>( Wellytics - CareAutomate - Chawk - Kreda)(All Paid)<br> <b>8x Startups⚡</b>( Cology , Kreda , Vishnuspire , Vishnu TBI , Narico , Genetic Labs , Vaidya Sri , Trizen LLP)</h3>
 
 <img align="right" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/cat-working-with-a-laptop/cat-working-with-a-laptop-doodle.gif"  />
@@ -50,7 +50,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
 </div>
 
-# Connect with Me
+<h3>Connect with Me</h3>
+
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gantavenkatakousik)
 [![graphicdesigner_gvk](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/graphicdesigner_gvk)
 [![youTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/GVenkataKousik)
@@ -61,3 +62,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=gantavenkatakousik&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gantavenkatakousik&theme=light&hide_border=false)<br/>
 ###
+
+<h3>Note</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/note.png" alt="Note" width="20" height="20"/>
+  50% of the repos are in private
+</h3>
