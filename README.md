@@ -1,11 +1,8 @@
 <h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br> 4x Intern👨‍💻| 8x Startups⚡</h2>
 <h3 align="center"><b>4x Intern👨‍💻</b>( Wellytics - CareAutomate - Chawk - Kreda)(All Paid)<br> <b>8x Startups⚡</b>( Cology , Kreda , Vishnuspire , Vishnu TBI , Narico , Genetic Labs , Vaidya Sri , Trizen LLP)</h3>
 <h3 align="center"><b>50% of the repos are in private</b></h3>
-
 ###
-
 <img align="right" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/cat-working-with-a-laptop/cat-working-with-a-laptop-doodle.gif"  />
-
 ###
 <h3>I know</h3>
 <div align="center">
@@ -33,8 +30,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
@@ -46,12 +41,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
-<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
 <img width="12" />
