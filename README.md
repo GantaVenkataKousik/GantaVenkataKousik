@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br> 4x Intern👨‍💻| 8x Startups⚡</h2>
 <h3 align="center"><b>4x Intern👨‍💻</b>( Wellytics - CareAutomate - Chawk - Kreda)(All Paid)<br> <b>8x Startups⚡</b>( Cology , Kreda , Vishnuspire , Vishnu TBI , Narico , Genetic Labs , Vaidya Sri , Trizen LLP)</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <img align="right" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/cat-working-with-a-laptop/cat-working-with-a-laptop-doodle.gif"  />
 
 <h3>I know</h3>
@@ -49,7 +49,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
 </div>
-
 <h3>Connect with Me</h3>
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gantavenkatakousik)
@@ -62,7 +61,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=gantavenkatakousik&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gantavenkatakousik&theme=light&hide_border=false)<br/>
 ###
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h3>Note</h3>
 <h3 align="center">
   40% of the repos are in private
