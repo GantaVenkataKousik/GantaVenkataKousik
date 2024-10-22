@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br> 4x Intern👨‍💻| 8x Startups⚡</h2>
-<h3 align="center"><b>4x Intern👨‍💻</b>( Wellytics - CareAutomate - Chawk - Kreda)(All Paid)<br> <b>8x Startups⚡</b>( Cology , Kreda , Vishnuspire , Vishnu TBI , Narico , Genetic Labs , Vaidya Sri , Trizen LLP)</h3>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <img align="right" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/cat-working-with-a-laptop/cat-working-with-a-laptop-doodle.gif"  />
 
