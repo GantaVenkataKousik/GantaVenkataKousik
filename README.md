@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨</h2>
+<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br>Developer | Designer | Programmer</h2>
 
 <img align="right" height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/cat-working-with-a-laptop/cat-working-with-a-laptop-doodle.gif"  />
 
