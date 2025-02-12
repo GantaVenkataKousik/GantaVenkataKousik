@@ -9,6 +9,7 @@
 
 💻 I am Ganta Venkata Kousik, a Full Stack Developer, UIUX Designer specializing in designing and building intuitive, high-performing applications. 
 
+
 🌟Passionate about UI/UX, problem-solving, and mentoring, I focus on delivering seamless experiences and innovative solutions while adapting to emerging technologies.
 
 <h3>I know</h3>
