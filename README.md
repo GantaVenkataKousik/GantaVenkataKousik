@@ -1,7 +1,7 @@
 <tr>
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=GantaVenkataKousik&label=Profile%20views&color=36363b&style=flat" alt="GantaVenkataKousik" /></p>
   </tr>
- <h2 align="center">Visit my Linktree for more projects and contact info✨<br>(https://linktr.ee/GantaVenkataKousik)</h2>
+ <h3 align="center">Visit my Linktree for more projects and contact info✨<br>(https://linktr.ee/GantaVenkataKousik)</h3>
 <h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br>Developer | Designer | Programmer</h2>
 
 <picture>
