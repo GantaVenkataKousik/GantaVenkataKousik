@@ -1,8 +1,5 @@
 <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=GantaVenkataKousik&label=Profile%20views&color=36363b&style=flat" alt="GantaVenkataKousik" /></p>
-  </tr>
- <h3 align="center">Visit my Linktree for more projects and contact info✨<br>(https://linktr.ee/GantaVenkataKousik)</h3>
-<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik✨<br>Developer | Designer | Programmer</h2>
+<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik</h2>
 
 <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
