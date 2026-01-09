@@ -1,14 +1,12 @@
 <tr>
-<h2 align="center">Hi 👋! I'm Ganta Venkata Kousik</h2>
+<h2 align="center">Hi, I'm Ganta Venkata Kousik</h2>
 
 <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
-💻 I am Ganta Venkata Kousik, a Full Stack Developer, UIUX Designer specializing in designing and building intuitive, high-performing applications. 
+I am Ganta Venkata Kousik, a Full Stack Developer, Designer specializing in designing and building intuitive, high-performing applications. 
 
-
-🌟Passionate about UI/UX, problem-solving, and mentoring, I focus on delivering seamless experiences and innovative solutions while adapting to emerging technologies.
 
 ### _**You can find me on:**_
 
@@ -27,4 +25,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gantavenkatakousik&theme=light&hide_border=false)<br/>
 
-#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+#### Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
